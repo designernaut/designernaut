@@ -3,4 +3,12 @@ layout: default
 title: Home
 ---
 
-This is a test.
+<div class="entry-content wrap">
+  <ul class="all-posts posts-by-year">
+  {% for post in site.posts %}
+          {% if post.hidden != true %}
+    <li><span class="entry-meta">{{ post.date | pretty }}</span> <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+  </ul>
+</div>
