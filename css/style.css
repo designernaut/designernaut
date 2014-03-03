@@ -434,7 +434,7 @@ a:hover {
 /* Sidebar */
 
 .sidebar {
-    background-color: #f6f6f6;
+    background-color: #f1f1f1;
     float: left;
     height: 100%;
     padding: 4em 5%;
@@ -444,47 +444,22 @@ a:hover {
     width: 25%;
 }
 
-.header {
-    float: left;
-    margin: 25px auto;
-    max-width: 250px;
-    width: 100%;
+header .logo {
+    font-size: 18px;
 }
 
-.header .logo {
-    color: #2C343B;
-    float: left;
-    margin: 0;
-    width: 300px;
+nav {
+    margin: 40px 0 0;
 }
 
-.header .logo span {
-    display: block;
-    font-size: 24px;
-    margin: 0;
-}
-
-.header .logo p {
-    display: block;
-    font-size: 16px;
-    margin: 0;
-}
-
-.header .nav {
-    float: right;
-    width: 400px;
-}
-
-.header .nav ul {
-    float: right;
+nav ul {
     list-style-type: none;
     margin: 0;
+    padding: 0;
 }
 
-.header .nav ul li {
-    float: left;
-    font-size: 20px;
-    margin: 0 0 0 50px;
+nav ul li {
+    margin: 0 0 10px;
 }
 
 
@@ -508,13 +483,48 @@ a:hover {
     width: 90%;
 }
 
+h1 { margin: 0;}
+
 h1.title {
     color: #333;
     font-size: 48px;
     font-weight: 700;
-    margin: 0;
 }
 
 .meta {
     color: #d5d5d5;
+}
+
+.all-posts {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.all-posts span.date {
+    color: #d5d5d5;
+    font-size: 14px;
+    margin: 0 0 0 5px;
+}
+
+.twitter_btn {display: block;margin: 40px 0 0;}
+.copyright {color: #bbb; font-size: 14px; margin-top: 15px;}
+
+
+@media(max-width:1030px) {
+    .main {
+        float: none;
+        padding: 3em 0;
+        width: 100%;
+    }
+    .post { 
+        max-width: none;
+        width: 75%;
+    }
+    .sidebar {
+        float: none;
+        padding: 3em 12.5%;
+        position: relative;
+        width: 75%;
+    }
 }
