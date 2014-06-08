@@ -1,4 +1,4 @@
-name: designernaut
+name: Designernaut
 markdown: redcarpet
 pygments: true
-baseurl: /designernaut
+permalink: /thoughts/:title.html

@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Thankful"
+date:   2012-11-26 20:52:00
+categories:
+---
+
+We just celebrated Thanksgiving here in the states, and while much of the celebrating is done through eating, drinking and watching football, it's also about, well, giving thanks for the things we have. I, thankfully, had a couple of days off for the holiday and some time to think about the blessings in my life and thought it would be right to post them here.
+
+I'm thankful to live in this country. We're wrong on some things but we do many things right. I don't know where else I could live and have a better situation to get to do what I do.
+
+I'm thankful for my wife. She supports and encourages me even though she probably doesn't care much for conversations about HTML or CSS.
+
+I'm thankful for dribbble and twitter. Without these two services I likely wouldn't know any of you and you certainly wouldn't know of me. I've grown because of these sites because they allow me to interact with you.
+
+I'm thankful for free resources that have helped me grow in this profession. Sites like A List Apart, Method & Craft and The Great Discontent giving me insights to smart people in our industry.
+
+I'm thankful for pros who have worked hard to write or compile their knowledge into books we all can consume. Works such as Keir Whitaker and Elliot Jay Stocks' Insites: The Book. Frank Chimero's The Shape of Design. Drew Wilson and Josh Long's Execute. And of course the fantastic book series from A Book Apart which so many great people have contributed to.
+
+I'm thankful for the younger members of this community who are making and doing awesome things. Galen Gidman's awesome BrandColors and Young Guns Show podcast. Dan Eden's slick new Onword web app for writing and his many previous works. Tim Smith's great The East Wing podcast and his new venture with the Make Awesome magazine. You guys rock and inspire me to work hard to make great things too.
+
+I'm thankful for the incredible services and ideas out there I have yet taken the time to learn. Things like GitHub and Sass. I look forward to implementing you into my process.
+
+I'm thankful for this blog. It's something I have wanted to do for a long time. I struggled with dozens of designs sketched out on pieces of paper before getting to where it is now. I determined that simpler was better and I enjoy the chances I get to refine it into a better experience for you. It helps me to to grow and hopefully you too a little.
+
+I'm thankful for all of the opportunities I know will come my way over the next year. The new people I will get to meet and interact with. The new knowledge I will gain.
+
+I'm thankful to live in such an exciting time and to have a profession that truly challenges me and rewards me. You are so much a part of that. So thank you.
