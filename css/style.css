@@ -410,7 +410,7 @@ table {
 /* Global Styles */
 
 body {
-	background-color: #fdfdfd;
+	background-color: #663399;
     color: #2C343B;
 	font-family: "adobe-garamond-pro",sans-serif;
 	font-weight: 400;
@@ -420,11 +420,11 @@ a, a:visited, a:hover {
 	text-decoration: none;
 }
 a, a:visited {
-    color: #C44741;
+    color: #DB4BDB;
     transition: color 0.5s ease;
 }
 a:hover {
-    color: #2C343B;
+    color: #B43BB4;
 }
 .cb {clear: both;}
 
@@ -473,7 +473,7 @@ nav ul li {
 }
 
 .post {
-    color: #484848;
+    color: #f5f5f5;
     display: block;
     font-size: 20px;
     line-height: 1.8em;
@@ -486,13 +486,13 @@ nav ul li {
 h1 { margin: 0;}
 
 h1.title {
-    color: #333;
+    color: #DB4BDB;
     font-size: 48px;
     font-weight: 700;
 }
 
 .meta {
-    color: #d5d5d5;
+    color: #f1f1f1;
 }
 
 .all-posts {
