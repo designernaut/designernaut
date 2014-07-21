@@ -5,10 +5,10 @@ date:   2014-07-21 09:00:00
 categories:
 ---
 
-Session Notes: An Event Apart D.C. 2014
+## Session Notes: An Event Apart D.C. 2014
 
 
-Jeffrey Zeldman  
+### Jeffrey Zeldman - [@zeldman]
 <br>
 It's really hard to explain what it is that we do and why it matters.
 
@@ -44,7 +44,7 @@ Facebook approached mobile as a technology problem, when it was really a design 
 - Great web design delights.  
 <br>
 
-How to spread the word:
+### How to spread the word:
 
 - Represent the profession.
 - Don't wait to be asked. Don't be at the end of the food chain.
