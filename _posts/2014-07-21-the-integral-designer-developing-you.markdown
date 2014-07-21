@@ -62,7 +62,7 @@ Whitney has decided that instead of building another website, she can achieve mo
 
 >The stories you have about others get in the way of making a genuine connection with them
 
-###### Five Levels of Listening: 
+##### Five Levels of Listening: 
 - Ignoring
 - Pretending
 - Selective
@@ -100,7 +100,7 @@ Whitney has decided that instead of building another website, she can achieve mo
 - Rely on their postion of authority, or are resigned to not having any
 - Take little notice of audience's needs
 
-###### Principles of Persuasion:
+##### Principles of Persuasion:
 - Reciprocity
 - Consistency
 - Social Proof
