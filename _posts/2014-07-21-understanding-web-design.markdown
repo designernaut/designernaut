@@ -10,7 +10,6 @@ Session Notes: An Event Apart D.C. 2014
 
 Jeffrey Zeldman  
 
-
 It's really hard to explain what it is that we do and why it matters.
 
 [The Art Directors Club](http://adcglobal.org/) - promotes the very best in design and yearly gives out awards. Jeffrey was invited to judge one year. He wasn't judging websites at all though. He was there to judge commercials on youtube.
