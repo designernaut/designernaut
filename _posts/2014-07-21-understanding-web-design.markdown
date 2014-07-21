@@ -31,23 +31,19 @@ A lot of companies are advocates for the web, such as Google, Apple, Adobe, etc.
 
 Facebook approached mobile as a technology problem, when it was really a design problem.
 
-We don't design for browsers. What we do is for people, so that they have a good experience.
 
-We don't make our pages accessible, or validate, to get a gold star. We do it for people.
+- We don't design for browsers. What we do is for people, so that they have a good experience.
+- We don't make our pages accessible, or validate, to get a gold star. We do it for people.
+- We don't design for mobile devices, or tablets or desktop. We do it for people.
+- Web design is like type design.
+- Web design is like architecture.
 
-We don't design for mobile devices, or tablets or desktop. We do it for people.
 
-Web design is like type design.
+- A great website makes interaction easy.
+- Great design is never passive. It only looks that way.
+- Great web design can be invisible or in your face.
+- Great web design delights.
 
-Web design is like architecture.
-
-A great website makes interaction easy.
-
-Great design is never passive. It only looks that way.
-
-Great web design can be invisible or in your face.
-
-Great web design delights.
 
 How to spread the word:
 
