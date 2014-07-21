@@ -41,6 +41,7 @@ Fonts for the screen do differ from their print versions, but who cares. One is 
 - Indistinct weights
 - Disordered weights
 <br>
+
 Typography is in the details. Fonts on the web have a bright future.
 
 
