@@ -1,13 +1,15 @@
 ---
 layout: post
-title:  "Session Notes: Understanding Web Design"
+title:  "Understanding Web Design"
 date:   2014-07-21 09:00:00
 categories:
 ---
 
-An Event Apart D.C. 2014 - Jeffrey Zeldman
+Session Notes: An Event Apart D.C. 2014
 
-Session notes, as I heard them:
+
+Jeffrey Zeldman
+
 
 It's really hard to explain what it is that we do and why it matters.
 
@@ -47,5 +49,12 @@ Great web design can be invisible or in your face.
 
 Great web design delights.
 
+How to spread the word:
 
-[text](url)
+- Represent the profession.
+- Don't wait to be asked. Don't be at the end of the food chain.
+- Arrive early and often.
+- Push yourself in as a volunteer.
+- Achieve the right things for the wrong reasons.
+
+We are all evangelists.
