@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Integral Designer: Developing You"
-date:   2014-07-21 010:15:00
+date:   2014-07-21 10:15:00
 categories:
 ---
 
