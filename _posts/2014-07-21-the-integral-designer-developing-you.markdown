@@ -9,7 +9,7 @@ categories:
 
 
 ### Whitney Hess - [@whitneyhess]
-<br>
+
 
 From a *superhero* to a *zero*.
 
@@ -27,7 +27,7 @@ Whitney became certified and a coach.
 Mind(Think/Cognitive), Heart(Feel/Emotional), and Body(Sense/Somatic). Every human is made of these three parts.
 
 In most work places, we're just the 'mind'. We ignore the heart and the body.
-<br>
+<br><br>
 ### How can we use all of these intelligences to make better decisions?
 
 Integration - making all three work together. Being our whole selves.
@@ -35,7 +35,7 @@ Integration - making all three work together. Being our whole selves.
 Neuroplasticity - our brains change and we have the power to change them. Until recently, we thought our brains developed until a certain point and them it never changed. We can actually change the neuro pathways leading to changes in our behavior.
 
 Whitney has decided that instead of building another website, she can achieve more good by helping other designers become better people.
-<br>
+<br><br>
 ### 4 key competencies everyone can work on:
 
 #### Self-Awareness - Presence
