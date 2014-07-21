@@ -9,7 +9,7 @@ Session Notes: An Event Apart D.C. 2014
 
 
 Jeffrey Zeldman  
-
+<br>
 It's really hard to explain what it is that we do and why it matters.
 
 [The Art Directors Club](http://adcglobal.org/) - promotes the very best in design and yearly gives out awards. Jeffrey was invited to judge one year. He wasn't judging websites at all though. He was there to judge commercials on youtube.
@@ -36,13 +36,13 @@ Facebook approached mobile as a technology problem, when it was really a design 
 - We don't design for mobile devices, or tablets or desktop. We do it for people.
 - Web design is like type design.
 - Web design is like architecture.  
-
+<br>
 
 - A great website makes interaction easy.
 - Great design is never passive. It only looks that way.
 - Great web design can be invisible or in your face.
 - Great web design delights.  
-
+<br>
 
 How to spread the word:
 
