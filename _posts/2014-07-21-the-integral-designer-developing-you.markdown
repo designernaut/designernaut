@@ -119,3 +119,5 @@ What would it be like if I had more ____________?
 What kind of **invitation** am I to others?
 
 What do I need to do to be **integral**?
+
+[@whitneyhess]:http://twitter.com/whitneyhess

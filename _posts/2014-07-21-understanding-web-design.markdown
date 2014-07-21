@@ -53,3 +53,5 @@ Facebook approached mobile as a technology problem, when it was really a design 
 - Achieve the right things for the wrong reasons.
 
 We are all evangelists.
+
+[@zeldman]:http://twitter.com/zeldman
