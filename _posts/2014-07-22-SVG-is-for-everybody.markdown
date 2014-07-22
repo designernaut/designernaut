@@ -44,7 +44,7 @@ Because SVG *can* be resized worry-fre, you probably *will* resize most of the t
 
 Sites need an icon template system
 
-Set up a <defs> block to define the things. Then call it in the HTML.
+Set up a defs block to define the things. Then call it in the HTML.
 
 You can move it into it's own .svg file and call it. Doesn't work in IE, but there is a [workaround](https://github.com/jonathantneal/svg4everybody).
 
@@ -76,7 +76,7 @@ SVG wins in almost every way, except for backwards compatibility in IE.
 
 - Use Inline SVG
 - ARIA Roles
-- Use <text> when possible
+- Use text when possible
 
 #### SVG Filters & Blend Modes
 
