@@ -6,8 +6,15 @@ title: thoughts
 <div class="entry-content wrap">
   <ul class="all-posts posts-by-year">
   {% for post in site.posts %}
-          {% if post.hidden != true %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a> <span class="date">{{ post.date | date: "%B %d, %Y" }}</span></li>
+    {% if post.hidden != true %}
+		{% capture currentyear %}{{post.date | date: "%B %Y"}}{% endcapture %}
+		{% if currentyear != year %}
+			{% unless forloop.first %}</ul>{% endunless %}
+			<h2 class="year">{{ currentyear }}</h2>
+			<ul class="posts-list">
+			{% capture year %}{{currentyear}}{% endcapture %} 
+		{% endif %}
+		<li><a href="{{ post.url }}">{{ post.title }}</a> <span class="date">{{ post.date | date: "%B %d, %Y" }}</span></li>
     {% endif %}
   {% endfor %}
   </ul>
