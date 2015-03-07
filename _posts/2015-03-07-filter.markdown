@@ -1,0 +1,100 @@
+---
+layout: post
+title:  "Filter"
+date:   2015-03-07 16:15:00
+categories:
+---
+
+I've had a love/hate relationship with Twitter for a while now. I've taken breaks. I've unfollowed nearly everyone (only to follow them all back a week later). I've tried making lists but never really liked using them. I've tried it all because, while I love everyone that I follow (if you're a contemptible person, I'm going to end that quickly. I don't care how accomplished you are), I easily get overwhelmed about everything that is getting shared my way.
+
+I follow a lot of web workers (designers, developers, content strategiests, and others tangentially connected) and most of them are fairly active contributors to the stream. Roughly half the things shared are relevant to me and I do not want to miss those. The other half I could do without for several reasons. Sometimes it's high value content, just not for me. It happens when you follow well-rounded individuals. Other times it's mindless nonsense, but not annoying, so I might get a laugh out of it or will just skip over. No harm, no foul.
+
+The last category drives me insane and I'm doing what I can to avoid it. Usually it comes down to the same thing being said over and over again, it's meaningless to me, and after seeing it so many times I just want to filter it out. And so, that is exactly what I have been doing lately. Thankfully my iPhone Twitter client, Tweetbot, comes with a filter option and I have collected a bit of a list of things that for one reason or another, I just can't take seeing anymore. It's nothing personal. I don't hate you if you tweet something that I'm filtering out here. I still want to see your other tweets. I just can't take all of them anymore.
+
+So, what I want to do now is share my filter list and explain (if I can remember correctly) why I am choosing to remove these things from my stream.
+
+
+### Keywords
+
+**Amirite?** - It was a playful combination of words for about 2 seconds for me. The rest of your tweet could be pulitzer prize worthy, but using this will all but ruin it for me.
+
+**Annoying** - Perhaps ironic that I would post about things that are annoying me, but I'm trying to remove negativity from my stream, and I'm finding people who are sharing things that are annoying to them are just being pessimistic.
+
+**Apple** - Love the quality of work the company puts out. Don't need the unending, undying love for them. I get it.
+
+**Boom** - Using ending a tweet that is stating an accomplishment. Kind of a "drop the mic" like effect. Has same effect on me as *amirite*.
+
+**Coming from you** - This is a "thank you" tweet after receiving a compliment. As in, "Coming from you this means a lot." It may or may not be sincere and that's ok. It just doesn't have any value for me as a third-party viewer and after the thousandth viewing, I didn't need any more.
+
+**Conf** - This removes mentions of *WhateverName*Conf that happens to be going on at any given moment. There's a bunch of them out there and they all look really interesting and valuable. I won't take anything away from them. I don't get a chance to go to them and rarely find the tweets for them of interest to me.
+
+**Dat** - Instead of saying "That", you say "Dat". Same feelings as for *amirite*.
+
+**Doctor Who** - Apparently it's a show that a lot of people like. I've watched a few episodes and couldn't see why. I don't care who the doctor is.
+
+**Doge** - Much annoying. So lame.
+
+**Fart** - Childish. Not really sure why I had to filter this out, but yeah, thanks.
+
+**Frustrating** - Along the same lines as *annoying*, it rarely offers anything of value or helpful, just complaining.
+
+**Gif** - This one is a bit controversial, even for myself, because what I am attempting to filter out is any link that has the .gif extension. This makes up roughly a third of the tweets on Twitter, but rarely is offering anything particularly great. Sometimes funny, but rarely worth the time.
+
+**I am in you** - Often used by someone who is travelling, such as "San Francisco, I am in you". Great, you're in another city! So, so cool.
+
+**In case you missed it** - I didn't miss it, but I get the reasoning for sharing again something because you put a lot of effort into. I filter out everything else so that I don't miss the first one though.
+
+**kthxbai** - See *amirite* or *dat*.
+
+**OH:** - Abbreviation for "Over Heard". Not convinced all of these are actually things the tweeter has overheard, but regardless, they're almost always in the mindless nonsense category.
+
+**Playstation** - For a while when the new Playstation came out, way too many people were talking about it like their lives were changed, or ruined. I got tired of it.
+
+**Poop** - See *fart*.
+
+**Pro tip** - Rarely an actual professional tip.
+
+**Protip** - See *pro tip*.
+
+**PS4** - See *playstation*.
+
+**Sony** - See *playstation*. I don't care what Sony is up to.
+
+**That moment when* - Probably a moment that just happened. Not usually a moment many people experience.
+
+**The feels* - Close to *amirite* in that it could have been worded properly, but usually it's irrelevant anyway so why bother?
+
+**Uber** - Everything I have ever read about them makes me never want to use them. If it makes you feel cool to use them, then awesome, just don't want to know about it.
+
+**White men** - There are a lot of healthy conversations happening today about patriarchy, diversity, women in tech, wage gap, etc. Things that I do not want to be ignorant of or dismiss. I follow several individuals who are sharing incredibly powerful thoughts and content around these topics. Tweets such as "Ugh, white men" are not those.
+
+**White people** - See *white men*.
+
+**Xbox** - See *playstation*.
+
+
+### Hashtags
+
+**#fugu** - No idea, but whatever it was, it was getting tweeted way too often for my liking.
+
+**#lastfm** - This is music getting shared from the music streaming service. I have other means of discovering new music.
+
+**#nailedit** - Kind of like *boom*. Boasting, though sometimes sarcastically. Either way, meh.
+
+**NowPlaying** - Similar to *#lastfm*, it just got on my nerves.
+
+**#OneWordVine** - This was a trend when Vine came out where people literally were making Vines of themselves just saying one word. No one idea if it's still a thing, but thankfully they all tagged it with this hashtag so I could avoid it.
+
+**#pForm** - I actually tried to figure out what this hashtag meant, but couldn't. Probably part of the reason I filtered it.
+
+**#Protip** - See *pro tip*.
+
+
+### Clients
+
+**Foursquare** - I don't want to know where you are.
+
+
+So that's my current filter list. I'm curious if anyone else maintains a list and if so, what is on it? Again, I don't do it to personally offend anyone. I do it to keep my sanity. It's not you, it's me.
+
+I also have long wanted to create a means to share filter lists. No idea how to go about that, but it's an idea I am interested in working on if anyone is a decent developer and knows their way around the Twitter API. I might start a Github repo for it.
