@@ -2,7 +2,8 @@
 layout: post
 title:  "Early Adopters"
 date:   2014-08-06 21:52:00
-categories:
+tags: ["internet", "rights", "platform", "inclusion", "advocacy"]
+categories: ["thoughts"]
 ---
 
 What if we’re coming to grips with the realization that the Internet can be more for humanity’s gain and less about business? What if it was about people and not corporations. We have to admit that pretty much the entire point of the Internet thus far has been to make money. But, we’re still the early adopters. In the history of the world, these last 20 years are a blip on the radar. It’s not too late to shape the purpose.

@@ -2,7 +2,8 @@
 layout: post
 title:  "Responsive Design is Still Hard/Easy! Be Afraid/Don’t Worry!"
 date:   2014-07-22 09:00:00
-categories:
+tags: ["An Event Apart", "responsive web design", "planning", "style guide", "Dan Mall"]
+categories: ["notes"]
 ---
 
 ## Session Notes: An Event Apart D.C. 2014
@@ -10,7 +11,7 @@ categories:
 
 ### Dan Mall - [@danielmall]
 
-Why do we model our agencies after out-dated models like the assembly line? 
+Why do we model our agencies after out-dated models like the assembly line?
 
 #### A Framework (not a process)
 
@@ -33,7 +34,7 @@ A Modern Web Design Process in 4 Steps:
 	- Performance Budgets
 	- Pattern Inventory ([http://patternlab.io/](http://patternlab.io/))
 	- [Visual Inventory](http://danielmall.com/articles/visual-inventory/)
-	
+
 	Content Strategy for Designers
 	- Add, Edit, Remove
 3. Sketch
@@ -41,9 +42,9 @@ A Modern Web Design Process in 4 Steps:
 		- Linear Design. Just list out everything that needs to be on the page.
 	- [Element Collages](http://danielmall.com/articles/rif-element-collages/)
 	- High fidelity that allows you to have the right conversation in the shortest amount of time.
-	- We can't just design comps anymore because those are just one moments in time. It's not sustainable. 	
+	- We can't just design comps anymore because those are just one moments in time. It's not sustainable.
 4. Assemble
-	- Presets	
+	- Presets
 	- Have all the pieces ready so all you have to do is assemble.
 
 [@danielmall]:http://twitter.com/danielmall

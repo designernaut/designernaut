@@ -2,7 +2,8 @@
 layout: post
 title:  "People Matter"
 date:   2012-09-06 20:52:00
-categories:
+tags: ["life", "people"]
+categories: ["thoughts"]
 ---
 
 If you follow me on twitter you might have seen several tweets from me a few weeks back about a family member who I was really concerned about. It was one of those reality check moments that make you realize there's a lot more to life than just work and hobbies. It turns out they were alright but it was enough to get me thinking and helped to put things into perspective.
@@ -15,7 +16,7 @@ Very recently I stumbled upon a tribute video for Jeffrey Zeldman. If you're any
 
 The one that really stuck out to me was the tribute by Leslie Jensen-Inman. She says,
 
-"I met Jeffrey Zeldman in 2005 at SXSW in a coffee shop. And we could have talked about Designing with Web Standards, or Alistapart, or any of the wonderful things Jeffrey does as Jeffrey Zeldman. But we didn't. We talked about family, and we talked about things that matter to us as people."
+"I met Jeffrey Zeldman in 2005 at SXSW in a coffee shop. And we could have talked about Designing with Web Standards, or A List Apart, or any of the wonderful things Jeffrey does as Jeffrey Zeldman. But we didn't. We talked about family, and we talked about things that matter to us as people."
 
 And later she concludes,
 

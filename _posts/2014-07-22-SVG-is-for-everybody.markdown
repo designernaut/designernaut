@@ -2,7 +2,8 @@
 layout: post
 title:  "SVG is for Everybody"
 date:   2014-07-22 14:00:00
-categories:
+tags: ["An Event Apart", "SVG", "Chris Coyier"]
+categories: ["notes"]
 ---
 
 ## Session Notes: An Event Apart D.C. 2014

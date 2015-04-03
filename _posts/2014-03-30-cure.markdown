@@ -2,7 +2,8 @@
 layout: post
 title:  "Cure"
 date:   2014-03-30 12:27:00
-categories:
+tags: ["personal", "support", "life"]
+categories: ["thoughts"]
 ---
 
 This year I’m walking in the Susan G. Komen Global Race for the Cure™, on May 10, in Washington D.C.
@@ -13,7 +14,7 @@ I'm also raising funds because nearly three years ago Stephanie’s grandmother 
 
 Today, she is nearly two years removed from being declared cancer free. She has come away with physical scars, and I’m sure some emotional scars as well. She’s doing much better today though, in large part because of the treatment she was able to receive as well as some hard decisions along the way.
 
-For her grandmother, and all women who are or may one day go through this fight, I’m asking for your support. I’ve set my personal goal at $150, and I’m asking for your help to reach my goal. 
+For her grandmother, and all women who are or may one day go through this fight, I’m asking for your support. I’ve set my personal goal at $150, and I’m asking for your help to reach my goal.
 
 You can [give online, safely and securely](http://globalrace.info-komen.org/site/TR/GlobalRaceForTheCure/KomenGlobalRace?px=18838825&pg=personal&fr_id=3745).
 

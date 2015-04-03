@@ -2,7 +2,8 @@
 layout: post
 title:  "#663399Becca"
 date:   2014-06-12 07:52:00
-categories:
+tags: ["life", "support"]
+categories: ["thoughts"]
 ---
 
 Eric, Kathryn, Carolyn and Joshua,

@@ -2,7 +2,8 @@
 layout: post
 title:  "Co-design, Not Redesign"
 date:   2014-07-22 16:30:00
-categories:
+tags: ["An Event Apart", "collaboration", "design", "meetings", "Kevin Hoffman"]
+categories: ["notes"]
 ---
 
 ## Session Notes: An Event Apart D.C. 2014
@@ -104,7 +105,7 @@ Etsy does similar experiments, but they're completely transparent about what the
 2. Changes culture
 
 #### 3 Building Blocks of Co-Design
-1. Designed Meetings 
+1. Designed Meetings
 2. Access to Process
 3. Transparency About Risks & Outcomes
 

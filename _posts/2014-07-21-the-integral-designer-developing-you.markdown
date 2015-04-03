@@ -2,7 +2,8 @@
 layout: post
 title:  "The Integral Designer: Developing You"
 date:   2014-07-21 10:15:00
-categories:
+tags: ["An Event Apart", "awareness", "emotion", "attitude", "Whitney Hess"]
+categories: ["notes"]
 ---
 
 ## Session Notes: An Event Apart D.C. 2014
@@ -40,7 +41,7 @@ Whitney has decided that instead of building another website, she can achieve mo
 
 #### Self-Awareness - Presence
 
-##### Those who struggle with presence: 
+##### Those who struggle with presence:
 - Get distracted easily
 - Have overactive mental chatter
 
@@ -53,7 +54,7 @@ Whitney has decided that instead of building another website, she can achieve mo
 
 #### Social-Awareness - Empathy
 
-##### Those who struggle with empathy: 
+##### Those who struggle with empathy:
 - Assume they know how the other person feels
 - Have a hard time "reading" people
 - Wait for their turn to talk, planning their response
@@ -62,7 +63,7 @@ Whitney has decided that instead of building another website, she can achieve mo
 
 >The stories you have about others get in the way of making a genuine connection with them
 
-##### Five Levels of Listening: 
+##### Five Levels of Listening:
 - Ignoring
 - Pretending
 - Selective
@@ -78,7 +79,7 @@ Whitney has decided that instead of building another website, she can achieve mo
 
 #### Self-Management - Adaptability
 
-##### Those who struggle with adaptability: 
+##### Those who struggle with adaptability:
 - Find it hard to juggle demands
 - Slow to see things from another perspective
 - Get frustrated by change, even when positive
@@ -95,7 +96,7 @@ Whitney has decided that instead of building another website, she can achieve mo
 
 >Influence is not something external that others give you. It's internal.
 
-##### Those who struggle with influence: 
+##### Those who struggle with influence:
 - Deliver same argument or presentation regardless of audience
 - Rely on their postion of authority, or are resigned to not having any
 - Take little notice of audience's needs

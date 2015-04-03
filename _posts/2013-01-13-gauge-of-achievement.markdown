@@ -2,7 +2,8 @@
 layout: post
 title:  "Gauge Of Achievement"
 date:   2013-01-13 20:52:00
-categories:
+tags: ["attention", "likes", "measure"]
+categories: ["thoughts"]
 ---
 
 On the web, we gauge our success and achievements on numbers. How many likes can I get, how many page views did I hit last month, what is my follower count.

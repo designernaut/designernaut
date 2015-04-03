@@ -1,4 +1,4 @@
 name: Designernaut
 markdown: redcarpet
 highlighter: pygments
-permalink: /thoughts/:title.html
+permalink: /:categories/:title.html

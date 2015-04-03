@@ -2,7 +2,8 @@
 layout: post
 title:  "We Invent The Future"
 date:   2012-08-18 19:46:00
-categories:
+tags: ["web design", "growth"]
+categories: ["thoughts"]
 ---
 
 This is the start of something new for me. While I have tried several times in the past at writing blogs, I have always failed on them.

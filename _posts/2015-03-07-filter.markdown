@@ -2,7 +2,8 @@
 layout: post
 title:  "Filter"
 date:   2015-03-07 16:15:00
-categories:
+tags: ["twitter", "filtering", "mute", "balance"]
+categories: ["thoughts"]
 ---
 
 I've had a love/hate relationship with Twitter for a while now. I've taken breaks. I've unfollowed nearly everyone (only to follow them all back a week later). I've tried making lists but never really liked using them. I've tried it all because, while I love everyone that I follow (if you're a contemptible person, I'm going to end that quickly. I don't care how accomplished you are), I easily get overwhelmed about everything that is getting shared my way.

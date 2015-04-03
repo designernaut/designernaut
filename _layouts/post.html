@@ -4,7 +4,12 @@
     <div class="post">
         <h1 class="title">{{ page.title }}</h2>
         <p class="meta">{{ page.date | date: "%B %d, %Y" }}</p>
+
         {{ content }}
+
+        <p class="categories">Filed under: <span>{{ page.tags | join: ', ' }}</span></p>
+
+        <p class="more">If you like what you're reading here, consider giving me a <a href="https://twitter.com/designernaut">follow on twitter</a>{% if page.previous %}<span class="previous-link"> or read my previous post, <a rel="prev" href="{{ page.previous.url }}">{{ page.previous.title }}</a></span>{% endif %}.</p>
     </div>
 </div>
 

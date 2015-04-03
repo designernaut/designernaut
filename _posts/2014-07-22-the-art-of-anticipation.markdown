@@ -2,7 +2,8 @@
 layout: post
 title:  "The Art of Anticipation"
 date:   2014-07-22 10:15:00
-categories:
+tags: ["An Event Apart", "anticipation", "magic", "context", "Derek Featherstone"]
+categories: ["notes"]
 ---
 
 ## Session Notes: An Event Apart D.C. 2014

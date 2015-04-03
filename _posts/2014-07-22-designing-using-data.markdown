@@ -2,7 +2,8 @@
 layout: post
 title:  "Designing Using Data"
 date:   2014-07-22 15:00:00
-categories:
+tags: ["An Event Apart", "design", "experiments", "data", "Sarah Parmenter"]
+categories: ["notes"]
 ---
 
 ## Session Notes: An Event Apart D.C. 2014

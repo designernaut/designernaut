@@ -2,7 +2,8 @@
 layout: post
 title:  "UX Strategy Means Business"
 date:   2014-07-21 16:30:00
-categories:
+tags: ["An Event Apart", "strategy", "UX", "design", "organizations", "Jared Spool"]
+categories: ["notes"]
 ---
 
 ## Session Notes: An Event Apart D.C. 2014
@@ -61,7 +62,7 @@ K-Mart "Shipped my Pants" commercial was seen and shared by everyone. But it did
 
 When you don't pay for the product - you *are* the product.
 
-Seducible Moment - the one type of advertising that works 
+Seducible Moment - the one type of advertising that works
 
 Advertising: corporate centered; broadcast.
 Experience: in the moment the user is in.

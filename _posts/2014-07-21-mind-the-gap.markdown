@@ -2,7 +2,8 @@
 layout: post
 title:  "Mind the Gap: Designing in the Space Between Devices"
 date:   2014-07-21 15:15:00
-categories:
+tags: ["An Event Apart", "magic", "mobile", "Josh Clark"]
+categories: ["notes"]
 ---
 
 ## Session Notes: An Event Apart D.C. 2014

@@ -2,7 +2,8 @@
 layout: post
 title:  "Thankful"
 date:   2012-11-26 20:52:00
-categories:
+tags: ["life", "thanks"]
+categories: ["thoughts"]
 ---
 
 We just celebrated Thanksgiving here in the states, and while much of the celebrating is done through eating, drinking and watching football, it's also about, well, giving thanks for the things we have. I, thankfully, had a couple of days off for the holiday and some time to think about the blessings in my life and thought it would be right to post them here.

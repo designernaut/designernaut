@@ -2,7 +2,8 @@
 layout: post
 title:  "Get To"
 date:   2014-03-21 13:49:00
-categories:
+tags: ["attitude", "focus", "perspective"]
+categories: ["thoughts"]
 ---
 
 I love those moments in life where you’re thrown into a sense of perspective of how things really are. It usually hits you like a wall and it’s completely devastating, yet equally empowering. One of those moments that reminds you of purpose.
@@ -17,7 +18,7 @@ I get to drive a long commute.
 
 I get to figure out how to make our sites perform better.
 
-I get to set up yet another blog. 
+I get to set up yet another blog.
 
 I get to work on projects that aren’t always exciting.
 

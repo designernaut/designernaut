@@ -2,7 +2,8 @@
 layout: post
 title:  "What I Do"
 date:   2014-03-12 17:00:00
-categories:
+tags: ["work", "life"]
+categories: ["thoughts"]
 ---
 
 I think it's important to define what you do for a living and to be able to explain that to a complete stranger without generalizing or glossing over the details. It's not enough to just say, "I'm a web designer."

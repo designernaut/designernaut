@@ -2,7 +2,8 @@
 layout: post
 title:  "Putting the Fonts into Webfonts"
 date:   2014-07-21 11:30:00
-categories:
+tags: ["An Event Apart", "typography", "webfonts", "Jonathan Hoefler"]
+categories: ["notes"]
 ---
 
 ## Session Notes: An Event Apart D.C. 2014
@@ -19,7 +20,7 @@ It solves problems.
 
 - You can do more
 - Encourages reading
-- Saves time 
+- Saves time
 - Conserve resources
 
 #### Solve Problems of the Web

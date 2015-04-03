@@ -2,7 +2,8 @@
 layout: post
 title:  "Attention Capitalism"
 date:   2013-03-29 20:52:00
-categories:
+tags: ["attention", "life", "growth"]
+categories: ["thoughts"]
 ---
 
 I struggle with this public persona thing. In "real life" I am way too shy and way too self-conscious. One of the big draws to the Internet for me has always been that I could be more "outgoing" than I would be if I was actually having face-to-face conversations.

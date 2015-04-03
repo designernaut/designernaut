@@ -2,7 +2,8 @@
 layout: post
 title:  "A Narrow Focus"
 date:   2014-03-06 14:00:00
-categories:
+tags: ["life", "side projects", "growth", "balance"]
+categories: ["thoughts"]
 ---
 
 Seemingly forever ago I wrote about how we're only human and that we shouldn't be expected to do everything. I argued that there is this invented, and unhealthy, pressure to produce.

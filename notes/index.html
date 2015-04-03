@@ -1,11 +1,11 @@
 ---
 layout: default
-title: thoughts
+title: notes
 ---
 
 <div class="entry-content wrap">
   <ul class="all-posts posts-by-year">
-  {% for post in site.categories["thoughts"] %}
+  {% for post in site.categories["notes"] %}
     {% if post.hidden != true %}
 		{% capture currentyear %}{{post.date | date: "%B %Y"}}{% endcapture %}
 		{% if currentyear != year %}

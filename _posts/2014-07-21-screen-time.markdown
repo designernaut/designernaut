@@ -2,7 +2,8 @@
 layout: post
 title:  "Screen Time"
 date:   2014-07-21 14:00:00
-categories:
+tags: ["An Event Apart", "mobile", "Luke Wroblewski"]
+categories: ["notes"]
 ---
 
 ## Session Notes: An Event Apart D.C. 2014

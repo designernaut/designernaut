@@ -2,7 +2,8 @@
 layout: post
 title:  "Being Your Best Self"
 date:   2012-11-12 20:52:00
-categories:
+tags: ["life", "growth"]
+categories: ["thoughts"]
 ---
 
 As some of you might know, last week America voted on who they wanted to lead the country for the following four years. As is often the case each time we go through this process many of us become political experts with deeply passionate beliefs. It's tough not to when television and social media is flooded with campaign ads and it's all anyone talks about. I've been guilty myself although I tried my best to stay neutral.

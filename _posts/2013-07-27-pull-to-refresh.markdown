@@ -2,7 +2,8 @@
 layout: post
 title:  "Pull To Refresh"
 date:   2013-07-27 20:52:00
-categories:
+tags: ["twitter", "notifications", "attention"]
+categories: ["thoughts"]
 ---
 
 Let’s face it. We’re addicted. We can’t get enough of new content. New tweets, new shots, new posts. We will take intentional steps to increase the frequency of new content when we feel we’re not getting enough.

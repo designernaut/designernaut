@@ -2,7 +2,8 @@
 layout: post
 title:  "Little Impacts"
 date:   2013-05-29 20:52:00
-categories:
+tags: ["life", "dreams", "growth", "side projects"]
+categories: ["thoughts"]
 ---
 
 When we’re young, we’re told to dream; to dream big. Unfortunately —at the end of the day— dreams aren’t reality. Dreams can be the inception of greatness; the beginning of something better. Yet, the key is action, and the outcome is controlled by you.

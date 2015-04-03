@@ -2,7 +2,8 @@
 layout: post
 title:  "Upgrade Culture"
 date:   2012-10-02 20:52:00
-categories:
+tags: ["upgrade", "change", "minimalist"]
+categories: ["thoughts"]
 ---
 
 I've wanted to get this thought out there for a while now. It's something that has always irritated me about our industry. Or really, it's more like our entire culture/human nature. This idea that newer equals better is such a lie. I know it obviously can be, and it's great when it is, but it's never a given nor necessary even when it is. This upgrade culture isn't a healthy one.

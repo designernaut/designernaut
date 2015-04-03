@@ -2,7 +2,8 @@
 layout: post
 title:  "Understanding Web Design"
 date:   2014-07-21 09:00:00
-categories:
+tags: ["An Event Apart", "web design", "advocacy", "Jeffrey Zeldman"]
+categories: ["notes"]
 ---
 
 ## Session Notes: An Event Apart D.C. 2014
@@ -35,13 +36,13 @@ Facebook approached mobile as a technology problem, when it was really a design 
 - We don't make our pages accessible, or validate, to get a gold star. We do it for people.
 - We don't design for mobile devices, or tablets or desktop. We do it for people.
 - Web design is like type design.
-- Web design is like architecture.  
+- Web design is like architecture.
 <br>
 
 - A great website makes interaction easy.
 - Great design is never passive. It only looks that way.
 - Great web design can be invisible or in your face.
-- Great web design delights.  
+- Great web design delights.
 <br>
 
 ### How to spread the word:

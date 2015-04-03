@@ -2,7 +2,8 @@
 layout: post
 title:  "Our Dilemma With Change"
 date:   2012-08-22 20:52:00
-categories:
+tags: ["change"]
+categories: ["thoughts"]
 ---
 
 Change is something that goes hand in hand with design. We're looking to design a solution for an issue and in the process changing the way it was before. Redesigns, or realigns, being the obvious example. We love change as designers. A little tweak here, a small improvement there. We don't really build things to last. There aren't a whole lot of good websites that have gone more than 5 years without requiring a facelift. Things get stale on the web quickly. If you haven't updated your personal site in over a year you start thinking, "what am I doing with my life?"

@@ -2,7 +2,8 @@
 layout: post
 title:  "Quiet and Shy"
 date:   2014-06-07 12:27:00
-categories:
+tags: ["personal", "life", "introvert"]
+categories: ["thoughts"]
 ---
 
 To most who know me, this is a pretty fair assessment. I am every bit the word and more. I am introverted and thoughtful, preferring isolation over too many bodies. Don’t ask for me to throw together something on the spot because you’re very unlikely to get my best work. Popularity bothers me. I want it and yet I don’t. I want recognition but I also have a touch of that impostor syndrome thing and so I rarely feel I’ve earned it. I’m a bit of a mess.
@@ -13,4 +14,4 @@ The shy part I’m still working on. I haven’t found as many advantages to bei
 
 [Jeffrey Zeldman](http://www.zeldman.com/), who happens to be kind of a hero, is quoted as saying, "A pretty good designer who can express ideas will actually have a better career than a brilliant designer who’s too shy.”
 
-I know it's 100% true too and that's the worst part. I can't ignore it or run away from it. It's a very real aspect of my life that I'm essentially failing at. Not the greatest of thoughts but I've never been one to back away from a opportunity to grow either. This might just be my most difficult side-project yet. 
+I know it's 100% true too and that's the worst part. I can't ignore it or run away from it. It's a very real aspect of my life that I'm essentially failing at. Not the greatest of thoughts but I've never been one to back away from a opportunity to grow either. This might just be my most difficult side-project yet.

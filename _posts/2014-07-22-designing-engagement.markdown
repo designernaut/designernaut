@@ -2,7 +2,8 @@
 layout: post
 title:  "Designing Engagement"
 date:   2014-07-22 11:30:00
-categories:
+tags: ["An Event Apart", "engagement", "empathy", "content", "Jaimee Newberry"]
+categories: ["notes"]
 ---
 
 ## Session Notes: An Event Apart D.C. 2014
@@ -20,7 +21,7 @@ Attention. Affection. Devotion.
 1. Personality
 	- What celebrity would your products be?
 	- Informs everything
-	
+
 2. Onboarding
 	- Introduce the concept
 	- Be mindful
@@ -30,7 +31,7 @@ Attention. Affection. Devotion.
 	- Define your objectives
 	- Empathy rules!
 		- Not only attract users, but gain their affection.
-		
+
 3. Copy
 	- Word choices
 		- Are your word choices off putting to your users? Can they be changed to encourage interaction?

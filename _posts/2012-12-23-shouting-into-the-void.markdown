@@ -2,7 +2,8 @@
 layout: post
 title:  "Shouting Into The Void"
 date:   2012-12-23 20:52:00
-categories:
+tags: ["twitter", "attention"]
+categories: ["thoughts"]
 ---
 
 At the end of November I made an impromptu decision to take a break from Twitter. Just decided to stop using it. To stop checking it incessantly.
@@ -11,7 +12,7 @@ One Eyeball and One Thumb
 
 Luke Wroblewski writes in his book Mobile First:
 
-I like to imagine people as "one eyeball and one thumb." One thumb because they are likely to be holding their mobile in one hand and using a single thumb to control it; one eyeball because in many locations where mobile devices are used we only have people's partial attention.
+"I like to imagine people as 'one eyeball and one thumb.' One thumb because they are likely to be holding their mobile in one hand and using a single thumb to control it; one eyeball because in many locations where mobile devices are used we only have people's partial attention."
 
 Luke is speaking to the mobile experience and how to design one that understands the context in which the user is using it in. There is no such thing as full attention. I'm coming from the other side of that thought. Between constantly viewing Twitter on my phone or a few other news resources on my phone, I've hardly given my full attention to anything. I'd sit in my living room with my wife, watching tv or a movie, and every other minute be checking something on my phone. I'd play video games and if there was a pause in the action I'd pick up my phone. It's a disease.
 

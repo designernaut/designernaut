@@ -2,7 +2,8 @@
 layout: post
 title:  "Superman, You Are Not"
 date:   2013-07-29 20:52:00
-categories:
+tags: ["life", "side projects", "growth", "balance"]
+categories: ["thoughts"]
 ---
 
 I know it seems like every web designer you follow can design a beautiful UI, code in the latest and greatest of CSS3 & HTML and still have the energy to work on a side project until 4am (and then make a podcast about the experience the next day). The key words here are “seems like.” They can’t. They’re lying to you.

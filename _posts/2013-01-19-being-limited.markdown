@@ -2,7 +2,8 @@
 layout: post
 title:  "Being Limited"
 date:   2013-01-19 20:52:00
-categories:
+tags: ["learning"]
+categories: ["thoughts"]
 ---
 
 We all spend a lot of time learning new things. It's part of the job description and also why I think the web has come a long way over the last decade. We enjoy getting better and sharing our ideas with others. This is what has brought our industry forward time and again.
