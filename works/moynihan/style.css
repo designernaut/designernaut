@@ -415,28 +415,33 @@ table {
    ========================================================================== */
 
 body {
-    background-color: #F4F3F1;
-    color: #595652;
+    background-color: #fff;
+    color: #4C5153;
     padding: 5%;
     margin-bottom: 100px;
 }
 
 h1, h2, h3, h4, h5, h6 {font-weight: normal;}
 
-h2 {
-    font-size: 12px;
+h1 {
+    font-size: 32px;
+}
+
+.currently {
+    color: #B2B7B9;
+    font-size: 14px;
     text-transform: uppercase;
 }
 
 a {
-    color: #9A9996;
+    color: #4C5153;
     border-bottom: 1px solid #9A9996;
     padding: 0;
     text-decoration: none;
 }
 
 a:hover {
-    color: #4DD6B7;
+    color: #44D7B7;
     text-decoration: none;
 }
 
@@ -461,13 +466,132 @@ section {
     margin: 100px auto;
 }
 
+.folio a {
+    border: none;
+    position: relative;
+    display: block;
+    width: 48%;
+    float: left;
+    margin: 1%;
+}
+
+.folio img {
+    width: 100%;
+    display: block;
+}
+
+.folio a.featured {width: 98%;}
+
+@media (max-width: 700px) {
+    .folio a img {
+        width: 100%;
+        float: none;
+    }
+
+    .folio a.featured {width: 98%;}
+}
+
+@media (max-width: 500px) {
+    .folio a {
+        width: 100%;
+        float: none;
+        margin: 2% 0;
+    }
+
+    .folio a.featured {width: 100%;}
+}
+
+.group-a {
+    float: left;
+    width: 50%;
+}
+
+.group-b {
+    float: right;
+    width: 50%;
+}
+
+@media (max-width: 700px) {
+    .group-a {
+        float: none;
+        width: 100%;
+    }
+
+    .group-b {
+        float: none;
+        width: 100%;
+    }
+}
+
+.desc {
+    position: absolute;
+    z-index: 100;
+    top: 33%;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+    display: none;
+    color: #fff;
+}
+
+.descBG {
+    background-color: #44D7B7;
+    opacity: 0.8;
+    display: none;
+    top: 0;
+    position: absolute;
+    height: 100%;
+    width: 100%;
+}
+
+.folio a:hover .desc,
+.folio a:hover .descBG {
+    display: block;
+}
+
 .contact {
-    margin: 50px 0;
+    margin: 100px 0;
 }
 
 .contact a,
 .contact a:hover {
-    font-size: 18px;
+    color: #44D7B7;
+    font-size: 14px;
     text-decoration: none;
+    text-transform: uppercase;
     border: none;
 }
+
+footer {
+    color: #B2B7B9;
+    font-size: 13px;
+    margin: 50px 0 170px;
+}
+
+.links {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    float: left;
+}
+
+.links li {
+    float: left;
+    margin-right: 30px;
+}
+
+.links li a {
+    color: #B2B7B9;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: none;
+}
+
+.links li a:hover {
+    color: #44D7B7;
+    text-decoration: none;
+    text-transform: uppercase;
+    border: none;
+}
+
+.copyright {float: right;}
