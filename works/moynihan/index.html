@@ -10,8 +10,11 @@
   <script>
     $(document).ready(function(){
       var height = $(window).height();
-      var heightVal = parseInt(height) - 330;
-      $("section").css("top", heightVal);
+      var heightVal = parseInt(height);
+      var heightValNew = heightVal - 330;
+      if (heightVal > 500) {
+        $("section").css("top", heightValNew);
+      }
     });
   </script>
 </head>
@@ -22,8 +25,8 @@
   </header>
   <section>
     <h2>Currently</h2>
-    <h1>Owner & Creative Director at <a href="">Elastik</a></h1>
-    <h1>Working on Krate & Locate</h1>
+    <h1>Owner & Creative Director at <a href="">Elastik</a>.</h1>
+    <h1>Working on Krate & Locate.</h1>
     <img src="images/mark.png" class="mark" height="47" width="18" />
     <div class="folio">
       <ul class="grid effect-2" id="grid">
@@ -43,6 +46,10 @@
         <li><a href="https://dribbble.com/shots/1020565-Cloudfit-Brand-Concept"><img src="images/14.png"></a></li>
         <li><a href="https://dribbble.com/shots/1010131-Mark-Exploration"><img src="images/15.png"></a></li>
       </ul>
+    </div>
+    <div class="contact">
+      <h3>Interested in working together?</h3>
+      <a href="mailto:">lets talk &rarr;</a>
     </div>
   </section>
 

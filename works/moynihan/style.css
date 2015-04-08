@@ -418,6 +418,7 @@ body {
     background-color: #F4F3F1;
     color: #595652;
     padding: 5%;
+    margin-bottom: 100px;
 }
 
 h1, h2, h3, h4, h5, h6 {font-weight: normal;}
@@ -449,6 +450,7 @@ section {
     position: absolute;
     width: 90%;
     box-sizing: border-box;
+    top: 200px;
 }
 
 .mark {
@@ -457,4 +459,15 @@ section {
 
 .folio {
     margin: 100px auto;
+}
+
+.contact {
+    margin: 50px 0;
+}
+
+.contact a,
+.contact a:hover {
+    font-size: 18px;
+    text-decoration: none;
+    border: none;
 }
