@@ -465,7 +465,7 @@ section {
 
 @media (max-width: 500px) {
     .mark {
-        margin: 30px 0 50px;
+        margin: 20px 0 30px;
     }
 }
 
@@ -615,7 +615,7 @@ footer {
 
 @media (max-width: 500px) {
     .links li {
-        margin-right: 15px;
+        margin-right: 10px;
     }
 }
 
