@@ -423,6 +423,11 @@ body {
     font-weight: 300;
 }
 
+.container {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
 h1, h2, h3, h4, h5, h6 {font-weight: 300;}
 
 h1 {
@@ -455,8 +460,10 @@ a:hover {
 section {
     position: absolute;
     width: 90%;
+    max-width: 1000px;
     box-sizing: border-box;
     top: 200px;
+    margin-bottom: 25px;
 }
 
 .mark {
@@ -571,7 +578,7 @@ section {
 }
 
 .contact {
-    margin: 100px 0;
+    margin: 100px 0 150px;
 }
 
 .contact p {
