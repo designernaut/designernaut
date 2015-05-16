@@ -19,5 +19,3 @@ What I find most interesting in all this, yet, is that each of these 9 organizat
 I find it odd they would now raise the white flag. To believe a mobile web is achievable but a fast web is not. What was the point of making them responsive in the first place?
 
 It concerns me that we'll see this become a trend. That Facebook has convinced some, and still convince others, that the open web will never be able to compete on speed. And that's not true. The web is just as fast.
-
-**BuzzFeed may have been responsive from the start, but I haven't been able to confirm.
