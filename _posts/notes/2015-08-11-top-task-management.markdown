@@ -9,6 +9,9 @@ categories: ["notes"]
 ## Session Notes: An Event Apart D.C. 2015
 
 
+### Gerry McGovern - [@gerrymcgovern]
+
+
 Simplicity is more about taking away than about adding and you have to know what to take away.
 
 If you are focused on the customer, than you are empathetic to their experiences.
