@@ -2,7 +2,7 @@
 layout: post
 title:  "Top Task Management: Making it Easier to Prioritize"
 date:   2015-08-11 14:00:00
-tags: ["An Event Apart", "tasks", "priorities" "Gerry McGovern"]
+tags: ["An Event Apart", "tasks", "priorities", "Gerry McGovern"]
 categories: ["notes"]
 ---
 
