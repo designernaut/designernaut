@@ -32,6 +32,7 @@ Gesture-enabled RWD
 
 #### Cohesive UX
 Let's make it work everywhere!
+
 “We understood mobile just to be another screen.” - JOHN DONAHOE
 
 Mobile (noun) vs. Mobile (verb)
@@ -44,6 +45,7 @@ Cohesion (noun) - forming a united whole
 2. Data Symmetry
 
 We need to do more to make our experiences unified across devices.
+
 Make the mobile site and mobile app work and look the same.
 
 The best interface is the one within reach.
@@ -53,6 +55,11 @@ The best interface is the one within reach.
     - Tone, Iconography, Typography, User preferences, Color, Etc.
 2. Store session data in the cloud, rather than locally.
 3. Consider using web views when developing your native app.
-    - “You’re already using web apps in native wrappers without even noticing it…. Web vs. native doesn’t matter anymore" - Mike Matas(?)
+    - “You’re already using web apps in native wrappers without even noticing it…. Web vs. native doesn’t matter anymore" - Mike Matas
 4. Replace 'click' with tap or press, and 'mobile' with mobile-ish (or michael or whatever).
 5. Respect (existing) mental models.
+
+
+
+
+[@cameronmoll]:http://twitter.com/cameronmoll

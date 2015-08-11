@@ -44,7 +44,9 @@ vh (viewport height)
 - 100vh = 100% of the viewport height
 
 vw
+
 vmin
+
 vmax
 
 #### Flexbox
@@ -57,8 +59,14 @@ Dynamic grids
 
 
 The hardest part is changing our thinking, not our CSS.
+
 The web is not print. Translate, don't transfer.
 
 Truncation is not a content strategy.
 
 The most dangerous phrase in the language is ‘We’ve always done it this way.’ — Grace Hopper
+
+
+
+
+[@jensimmons]:http://twitter.com/jensimmons

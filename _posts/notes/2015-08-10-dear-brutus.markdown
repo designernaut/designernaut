@@ -41,6 +41,7 @@ If that's the case, you have to change something to get ahead.
 
 #### "We have met the enemy, and he is us"
 We have to stop our snobbery from keeping us from succeeding.
+
 I am what stands between me & success.
 
 - Go to meetups.
@@ -52,7 +53,9 @@ I am what stands between me & success.
 
 #### Help! My portfolio smells.
 Work may be compromised.
+
 Work may be secret.
+
 Sleight of hand. Share around the problem.
 
 - Talk about the work you did without showing it.
@@ -62,9 +65,16 @@ Sleight of hand. Share around the problem.
 
 #### Blog like one one's reading.
 You don't have to be afraid. Think of it as discussion, not writing.
+
 Publish it or you never will.
+
 Blog when you're pissed off. You'll have something to say.
+
 Writing helps you to understand what you have to say.
 
-
 #### Don't wait for someone to hand you a dream job or a dream project
+
+
+
+
+[@zeldman]:http://twitter.com/zeldman

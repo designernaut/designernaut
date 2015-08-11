@@ -121,3 +121,8 @@ Focus on beautiful user experiences
 3. Test on real devices.
 4. Collaborate.
 5. Educate and document.
+
+
+
+
+[@yeseniaa]:http://twitter.com/yeseniaa

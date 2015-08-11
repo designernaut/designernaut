@@ -12,6 +12,7 @@ categories: ["notes"]
 ### Cassie McDaniel - [@cassiemc]
 
 "UI is a software layer. From a customer’s perspective, the whole application is nothing but the UI." – Ryan Singer, Basecamp
+
 "The interface is your product. What people see is what you're selling" - Basecamp
 
 #### Interfaces
@@ -22,8 +23,11 @@ categories: ["notes"]
 
 #### Inform
 Sometims, fancy = intimidating.
+
 It's smarter to make small changes over time than one big overhaul.
+
 Temper the reactions to changes.
+
 A picture, essentially is just a plane surface covered with colors, assembled in a certain order.
 
 Forest:
@@ -48,6 +52,7 @@ Trees:
 Think of a design like a song. What notes needs to be more quiet and what notes need to be louder?
 
 Small details can make meaningful changes.
+
 Example, "Let's eat, Grandma" vs. "Let's eat grandma"
 
 
@@ -72,3 +77,8 @@ Be different. Be human.
 We get caught up today in having the right tools and setup before we can get started.
 
 Inject something that is a little true, a little bold, into our designs.
+
+
+
+
+[@cassiemc]:http://twitter.com/cassiemc

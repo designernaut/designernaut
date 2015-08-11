@@ -153,5 +153,12 @@ Example: Free People - great example of using different channels, daily.
 
 #### The lightbulb moment
 Don't do the safe, expected thing.
+
 Be prepared to have difficult conversations.
+
 Try the weird things.
+
+
+
+
+[@sazzy]:http://twitter.com/sazzy
