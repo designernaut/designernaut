@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Atomic Design"
+title:  "Falling in Love with Forms"
 date:   2015-08-11 9:00:00
-tags: ["An Event Apart", "atomic design", "patterns", "process", "Brad Frost"]
+tags: ["An Event Apart", "atomic design", "Brad Frost"]
 categories: ["notes"]
 ---
 
