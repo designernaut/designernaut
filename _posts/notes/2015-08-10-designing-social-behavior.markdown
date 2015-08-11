@@ -4,6 +4,7 @@ title:  "Designing for Social Behavior"
 date:   2015-08-10 10:15:00
 tags: ["An Event Apart", "social media", "authenticity", "Sarah Parmenter"]
 categories: ["notes"]
+---
 
 ## Session Notes: An Event Apart D.C. 2015
 
