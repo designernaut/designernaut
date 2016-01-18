@@ -2,7 +2,8 @@
 layout: default
 title: home
 ---
-
-  {% assign post = site.posts.first %}
-  {% assign content = post.content %}
-  {% include post_detail.html %}
+  {% for post in site.categories["thoughts"] %}
+    {% assign post = site.posts.first %}
+    {% assign content = post.content %}
+    {% include post_detail.html %}
+  {% endfor %}
