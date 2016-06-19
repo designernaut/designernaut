@@ -1,9 +1,15 @@
-<h1 class="f2 f-subheadline-ns tc mb4 pa3 ph5-ns">
+<h1 class="f3 f1-ns tc mb4 pa3 ph5-ns">
 {% if post.title %}
     <a class="link dim black no-underline" href="{{ post.url }}">{{ post.title }}</a>
 {% endif %}
 </h1>
-<p class="meta">{{ post.date | date: "%B %d, %Y" }}</p>
+
+<img src="../assets/images/divider.png" class="db mb4 center divider" height="12" width="62" alt="horizontal rule">
+
+<p class="center f6 white mw6 mw7-ns pa4 ph5-ns mb4 lh-copy tc ttu tracked">{{ post.date | date: "%B %d, %Y" }}</p>
+
+<img src="../assets/images/divider.png" class="db mb4 center divider" height="12" width="62" alt="horizontal rule">
+
 {{ content }}
 
 <!--<p class="categories">Filed under: <span>{{ post.tags | join: ', ' }}</span></p>
