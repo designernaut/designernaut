@@ -1,4 +1,3 @@
 name: Designernaut
-markdown: redcarpet
-highlighter: pygments
+highlighter: rouge
 permalink: /:categories/:title.html
