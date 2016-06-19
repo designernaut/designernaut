@@ -1,9 +1,14 @@
 {% include head.html %}
 
 <div class="main">
-    <div class="post center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
-        <h1 class="title">{{ page.title }}</h2>
-        <p class="meta">{{ page.date | date: "%B %d, %Y" }}</p>
+    <div class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
+        <h1 class="f2 f-subheadline-ns tc mb4 pa3 ph5-ns">{{ page.title }}</h2>
+
+        <img src="../assets/images/divider.png" class="db mb4 center divider" height="12" width="62" alt="horizontal rule">
+
+        <p class="center f6 white mw6 mw7-ns pa4 ph5-ns mb4 lh-copy tc ttu tracked">{{ page.date | date: "%B %d, %Y" }}</p>
+
+        <img src="../assets/images/divider.png" class="db mb4 center divider" height="12" width="62" alt="horizontal rule">
 
         {{ content }}
 
