@@ -6,30 +6,45 @@ tags: ["work", "life"]
 categories: ["thoughts"]
 ---
 
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 I think it's important to define what you do for a living and to be able to explain that to a complete stranger without generalizing or glossing over the details. It's not enough to just say, "I'm a web designer."
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 If, like myself, you have any part of working on the web you get to do some really exciting work. And if you enjoy it you should have pride and confidence in sharing that with others.
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 I'm not a boastful person and talking myself up is one of the last things you'll ever catch me doing. It's not so much that I am against it, it's that I'm horrible at it. I don't even know how. What I get to do is awesome though. I just have a tough time convincing others of it.
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 For example, two occasions come to mind.
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 The first occurred a few years back when my wife and I were on vacation at Disney World and were staying at a nearby timeshare as guests. We knew going in that they would hound you and try to get you to join in on their thing. But, if you gave them your ear for an hour, there was some money to be had as a thank you. So we did it.
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 We sat down with this man that was going to convince us we were idiots if we didn't sign up right there and then (I'm not saying having a timeshare makes you an idiot, just that this is essentially their selling point). He started with the formalities of asking our names and professions. My wife went first and he certainly acted impressed (at the time she was an account executive for our local business journal, and quite good at it too).
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 I then proceeded to tell him that I was a web designer. I remember his response like it happened this morning. He paused for a half second, chuckled, and said "Oh, I see, you need her!"
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 It was a completely uneducated, judgemental comment (and if I was actually interested in the timeshare, my interest about disappeared here). You see, I do need her, for a lot of reasons. One of them, however, is not because I am some kind of low-life playing around the web. This gentleman obviously had no clue what I did, other than to assume I wasn't doing anything to write home about.
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 I can't necessarily blame him though. Besides his lack of tact, he just didn't understand. I wish I had corrected him and explained more about what I did and assured him I had a great job. I just kind of froze after his response (again, I'm not very good at bragging about myself).
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 The second occasion happened much more recently at a wedding reception for a friend. The bride's uncle, taking full advantage of the open bar and in a very philosophic mood after an inspiring message from the officiating pastor, struck up a conversation with me about life and careers.
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 He asked me what I did and after I told him, he put his hand on my shoulder and told me he wouldn't hold it against me. I'm not even sure what that means. But we stood and talked about how we work and thoughts on our fields. He's an accountant and seemed pretty content with where he was in life. He didn't expect to move up because he didn't have the ability to (his words, not mine).
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 He believes what secured us was that not everyone could do our jobs. I told him anyone could do my job if they wanted to. I was just going to outwork them. He didn't seem to like that very much.
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 The point is though, most people have a very limited understanding, if any at all, of what we do. I think this is largely due to this being such a new field. Not everyone even uses the Internet, much less understand how it is built. After all, the world wide web just turned 25 today. In the grand scheme of things, we are a really really young industry.
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 It's incredibly important though, as an individual, that we are able to explain what we do. It's equally important to explain it for the benefit of the web. I might need to work on my conversational skills to ensure people understand the value of my work. Although, if others to do the same, maybe in the future I won't have to.
+</p>

@@ -6,22 +6,30 @@ tags: ["life", "support"]
 categories: ["thoughts"]
 ---
 
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 Eric, Kathryn, Carolyn and Joshua,
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 I wouldn’t even know where to begin to share my sadness for you. I know nothing of the pain that comes from losing someone so close to you, especially a daughter and a sister. I can only say that I am sorry. I only know that this is so incredibly unfair and that you didn’t deserve this. Rebecca didn’t deserve this.
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 I never met Rebecca, but I did meet Eric once last year at one of the AEA conferences. You were just as nice and approachable with me as you were with the other 300 who probably shook your hand that day. It was a honor to meet you Eric and you made my day and my week with the work you put into that conference.
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 You see, Eric, you have made a huge impact on my life by the contributions you have made to the web. I have found a field I can work in that is both exciting and challenging, and I can thank you in part for making that happen.
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 I expect to see a lot of #663399Becca and purple avatars today. It’s the least we can do to show our support and our respects. We have all been heartbroken over the last year reading your accounts of Rebecca’s battle. We’re all here for you now as your friends and colleagues.
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 In a sense, you helped build the medium which we are now using to reach out to you. Without your contributions over the years, the web would look like a totally different place and services like Twitter, Facebook, and our own sites may not function the way they do today. So, we’ll use what we have now to give you all our love. As Jeffrey Zeldman said, it’s “some little, heartbreakingly inadequate thing.” It’s something though. And it’s genuine. I hope you can feel that.
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 Ultimately, whatever support we show you today and going forward, I know it won’t ever be enough to heal the emptiness. We all just hope you know you’re surrounded by friends and we send you all our love and prayers.
-
-<br>
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 Everyone,
-
+</p>
+<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 If you don't know Rebecca's story, you can [read it here](http://meyerweb.com/eric/thoughts/category/personal/rebecca/). If you can, tweet a simple #663399Becca today on Twitter. Purple was Rebecca's favorite color and in memory of her we're going purple today. Last, and certainly not least, Eric and family request that charitable donations be made in Rebecca's name to the [Philadelphia Ronald McDonald House](http://www.philarmh.org/) or the [St. Baldrick’s Foundation](http://stbaldricks.org/). Consider doing something today in honor of Rebecca.
+</p>
