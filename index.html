@@ -2,8 +2,15 @@
 layout: default
 title: home
 ---
-  {% for post in site.categories["thoughts"] limit:1 %}
+
+<section>
+    <h1 class="f2 f-subheadline-ns tc mb4 pa3 ph5-ns">The Latest &amp; Greatest</h1>
+
+    <img src="assets/images/divider.png" class="db mb4 center divider" height="12" width="62" alt="horizontal rule" />
+
+    {% for post in site.categories["thoughts"] limit:1 %}
     {% assign post = site.posts.first %}
     {% assign content = post.content %}
     {% include post_detail.html %}
-  {% endfor %}
+    {% endfor %}
+</section>
