@@ -6,7 +6,9 @@
 
 <!--<p class="center f6 white mw6 mw7-ns pa4 ph5-ns mb4 lh-copy tc ttu tracked">{{ post.date | date: "%B %d, %Y" }}</p>-->
 
-{{ content }}
+{{ post.excerpt }}
+
+<a class="link white hover-near-white btn" href="{{ post.url }}">View More</a>
 
 <!--<p class="categories">Filed under: <span>{{ post.tags | join: ', ' }}</span></p>
 
