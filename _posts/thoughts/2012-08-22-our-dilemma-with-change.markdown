@@ -6,21 +6,14 @@ tags: ["change"]
 categories: ["thoughts"]
 ---
 
-<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
 Change is something that goes hand in hand with design. We're looking to design a solution for an issue and in the process changing the way it was before. Redesigns, or realigns, being the obvious example. We love change as designers. A little tweak here, a small improvement there. We don't really build things to last. There aren't a whole lot of good websites that have gone more than 5 years without requiring a facelift. Things get stale on the web quickly. If you haven't updated your personal site in over a year you start thinking, "what am I doing with my life?"
-</p>
-<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
+
 And with change comes the idea that we're making something better. You typically don't try to change things for the worse. 'Better' is a subjective feeling though and so it's tough to know when something is truly better. As individuals we look for feedback from our peers. People we trust have a good design sense and are there to help. Places like dribbble have been a great place to start (unless people think you're good and then the comments are pretty much worthless).
-</p>
-<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
+
 Regardless, the goal is to get to 'better' with each interation. Yet, how that change is received depends greatly on who is affected by the change. I could change this blog tomorrow and it won't really affect too many people and won't exactly make a dent in the universe. I'm obviously hoping it doesn't stay that way but it's the reality of the situation at the moment and I understand that.
-</p>
-<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
+
 When something bigger changes though, it is a whole other matter. Twitter has been going through some changes recently (or rather, forcing changes on its users) and few people that I know of are happy with it. There's a lot of anxiety over the matter because there's so much uncertainty over what exactly is changing. On first thought, I was thinking it's probably not as big of a deal to the entirely of the twitter population. It's hard to accept, but us designers are only a small subset of actual Twitter users (as much as that might pain us). But now Twitter is doing things that affects everyone. Cutting off features from LinkedIn and halting Tumblr's and Instagram's "Find Friends" features. These are moves that could affect pretty much any given individual. Can't really speculate on why they're making these decisions, other than it's definitely leading to changes. And that Twitter obviously thinks this is for the better. Better for who is still up for debate.
-</p>
-<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
+
 On one hand, we change the sites we're designing all the time. We expect change in that realm of our work. Every day we're posting new shots to dribbble or calling out something on twitter saying, "in case you missed it earlier, I changed something, look at it and love it!" We want to change things and we want to see what our friends are changing. It's what we do and love.
-</p>
-<p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
+
 It's that whole perception thing. We perceive a change to be good, and it's awesome. We perceive a change to be bad, and it's the worst thing to have ever happened. Twitter brought change to so many people's lives by being invented and by being used by the early adopters. I know there are so many people who literally have had their lives changed for the better because Twitter, a free service, existed. Personally, the ability to connect with like-minded people that I have the utmost respect for is so satisfying and rewarding. Now, Twitter is changing how third-party entities can connect with it and access their API, and we hate it. "What are they doing? They shouldn't be changing this." The perspective on change is always clearer in hindsight, but in the moment we always think we're right.
-</p>
