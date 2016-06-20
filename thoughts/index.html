@@ -10,11 +10,11 @@ title: thoughts
         {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
 
         {% if forloop.first %}
-        <h2 id="{{ this_year }}-ref">{{this_year}}</h2>
-        <ul>
+        <h2 class="f3 f2-ns tc mb4 pa3 ph5-ns" id="{{ this_year }}-ref">{{this_year}}</h2>
+        <ul class="pa0">
         {% endif %}
 
-        <li class="db mr2"><a class="f4 f2-ns b db pa2 link dim mid-gray" href="{{ post.url }}">{{ post.title }}</a></li>
+        <li class="db"><a class="f4 f3-ns tc mb4 pa3 ph5-ns b db pa2 link dim mid-gray" href="{{ post.url }}">{{ post.title }}</a></li>
 
         {% if forloop.last %}
         </ul>
