@@ -33,3 +33,13 @@
     border-radius: 5px;
     padding: 5px 10px;
 }
+
+.shots {
+    list-style: none;
+    padding: 0;
+}
+
+.shots li {
+    float: left;
+    width: 25%;
+}
