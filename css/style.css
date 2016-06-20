@@ -48,3 +48,11 @@
 .shots li img {
     width: 100%;
 }
+
+.post a {
+    color: #777;
+}
+
+.post a:hover {
+    color: #000;
+}
