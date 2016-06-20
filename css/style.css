@@ -41,5 +41,10 @@
 
 .shots li {
     float: left;
+    line-height: 0;
     width: 50%;
+}
+
+.shots li img {
+    width: 100%;
 }
