@@ -51,12 +51,17 @@ html {
 .shots {
     list-style: none;
     padding: 0;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .shots li {
     float: left;
     line-height: 0;
-    width: 32%;
+    width: 49%;
+    max-width: 400px;
     margin-left: 1%;
     margin-bottom: 1%;
     background: #E0E0B2;
