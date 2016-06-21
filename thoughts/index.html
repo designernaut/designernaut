@@ -4,7 +4,7 @@ title: thoughts
 ---
 
 <section>
-    <h1 class="f2 f-subheadline-ns lh-solid tc tl-l mb4 pa3-ns mt0 mt4-ns ph0 w-100 w-75-l tg-red">Thoughts</h1>
+    <h1 class="f2 f-subheadline-ns lh-solid tc tl-l mb4 pv3-ns mt0 mt4-ns ph0 w-100 w-75-l tg-red">Thoughts</h1>
     {% for post in site.posts  %}
         {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
         {% capture next_year %}{{ post.previous.date | date: "%Y" }}{% endcapture %}
