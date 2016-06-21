@@ -21,16 +21,18 @@ html {
     background: linear-gradient(#FFB88C, #DE6262);
 }
 
-.styleguide {
-    background: #E0E0B2;
-    background: linear-gradient(#E0E0B2, #D4D3DD);
-}
-
 .tg-red {
     background: -webkit-linear-gradient(#FFB88C, #DE6262);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
 }
+
+.styleguide {
+    background: #E0E0B2;
+    background: linear-gradient(#E0E0B2, #D4D3DD);
+}
+
+
 
 .divider {
     opacity: .9;
@@ -57,13 +59,18 @@ html {
     width: 32%;
     margin-left: 1%;
     margin-bottom: 1%;
-    background-color: #f1f1f1;
+    background: #E0E0B2;
+    background: linear-gradient(#E0E0B2, #D4D3DD);
     padding: 3px;
     border-radius: 5px;
 }
 
 .shots li img {
     width: 100%;
+}
+
+.shots li img:hover {
+    opacity: .9;
 }
 
 .post a {
