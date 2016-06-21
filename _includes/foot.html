@@ -37,7 +37,7 @@
         }).then(function(res) {
           var html = [];
           res.forEach(function(shot) {
-            html.push('<li class="shots--shot">');
+            html.push('<li class="shots--shot wow slideInUp">');
             html.push('<a href="' + shot.html_url + '" target="_blank">');
             html.push('<img src="' + shot.images.normal + '">');
             html.push('</a></li>');
