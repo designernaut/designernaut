@@ -26,6 +26,12 @@ html {
     background: linear-gradient(#E0E0B2, #D4D3DD);
 }
 
+.tg-red {
+    background: -webkit-linear-gradient(#FFB88C, #DE6262);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
 .divider {
     opacity: .9;
 }
