@@ -5,7 +5,9 @@ title: home
 
 <section>
     <h1 class="f2 f-subheadline-ns lh-solid tc tl-ns mb4 pa3 ph0 w-100 w-75-ns">Product Design &amp; Development</h1>
+</section>
 
+<section>
     <a href="/works/dashboard.html" class="no-underline db white dim link">
       <div class="w-100 mv4 center br2">
         <div class="w-100 db">
@@ -14,18 +16,22 @@ title: home
             A complete redesign and rebuild of a web application
           </p>
           <p class="center f6 mw6 mw7-ns pb4 ph5-ns mb4 tc ttu tracked">
-            <a href="/works/dashboard.html" class="link db tc center f6 near-black hover-gray mw6 mw7-ns pa4 ph5-ns mb4 w4 ttu tracked">View More</a>
+            <a href="/works/dashboard.html" class="link db tc center f6 near-black hover-gray mw6 mw7-ns pa4 ph5-ns mb4 w4 ttu tracked">View Project</a>
           </p>
         </div>
       </div>
     </a>
+</section>
 
+<section>
     {% for post in site.categories["thoughts"] limit:1 %}
     {% assign post = site.posts.first %}
     {% assign content = post.content %}
     {% include post_detail.html %}
     {% endfor %}
+</section>
 
+<section>
     <h3 class="black tc f4 f3-ns pa4">Recent Dribbble Shots</h3>
     <ul class="cf shots"></ul>
     <a href="https://dribbble.com/designernaut" target="_blank" class="link db tc center f6 near-black hover-gray mw6 mw7-ns pa4 ph5-ns mb4 w4 ttu tracked">Explore More</a>
