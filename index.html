@@ -6,14 +6,6 @@ title: home
 <section>
     <h1 class="f2 f-subheadline-ns lh-solid tc tl-ns mb4 pa3 ph0 w-100 w-75-ns">Product Design &amp; Development</h1>
 
-    <img src="assets/images/divider.png" class="db mv5 center divider" height="12" width="62" alt="horizontal rule" />
-
-    {% for post in site.categories["thoughts"] limit:1 %}
-    {% assign post = site.posts.first %}
-    {% assign content = post.content %}
-    {% include post_detail.html %}
-    {% endfor %}
-
     <a href="/works/dashboard.html" class="no-underline db white dim link">
       <div class="w-100 mv4 center br2">
         <div class="w-100 db">
@@ -27,6 +19,12 @@ title: home
         </div>
       </div>
     </a>
+
+    {% for post in site.categories["thoughts"] limit:1 %}
+    {% assign post = site.posts.first %}
+    {% assign content = post.content %}
+    {% include post_detail.html %}
+    {% endfor %}
 
     <h3 class="black tc f4 f3-ns pa4">Recent Dribbble Shots</h3>
     <ul class="cf shots"></ul>
