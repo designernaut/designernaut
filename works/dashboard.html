@@ -9,32 +9,24 @@ title: about
   <p class="center f6 gray mw6 mw7-ns pa4 ph5-ns mb4 lh-copy tc ttu tracked"><b>Roles Performed:</b> Lead Designer, Front-end Developer</p>
 
   <p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
-    The one property that I have been most engaged with over the last few years is the EZShield dashboard. EZShield is a large player in the identity and fraud protection space and this dashboard is how our users manage their personally identifiable information. After years of development the interface had grown outdated and the integration of more and more services created an overly complex experience.
+    The one property that I have been most engaged with over the last few years is the EZShield dashboard. EZShield is a large player in the identity and fraud protection space and this dashboard is how our users manage their personally identifiable information. However, after years of development, we were running into a number of issues. Visually, it had aged and not as gracefully as I would like. It had become overly complex from the numerous new services and features added over time. It had no responsive styling, so we were missing out on a subset of our users who were getting a very poor mobile experience. And last, but certainly not least, performance had taken a very serious hit.
   </p>
 
   <div class="w-100 w-80-ns mv5 center">
-    <p class="f6 tc ttu tracked"><b>Before</b></p>
+    <p class="f5 tc ttu tracked"><b>Before</b></p>
     <img src="../assets/images/dashboard_old.jpg" class="w-100 center db" />
   </div>
 
   <p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
-    Beyond causing confusion, there were two very big issues we could no longer afford to ignore. First, it wasn't responsive and we were seeing an uptick in our user base trying to access their dashboard on mobile and tablet. It was usable, but no one wants to pinch and zoom and we didn't like forcing them to. Secondly, with all the additions we were throwing onto the site, performance had taken a major hit. At one point, the mean page load time was nearly 20 seconds. Yikes!
-  </p>
-
-  <div class="w-100 w-80-ns mv5 center">
-    <p class="f6 tc ttu tracked"><b>After</b></p>
-    <img src="../assets/images/dash.gif" class="w-100 center db" />
-  </div>
-
-  <p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
-    Starting with the design, we took everything into consideration and nothing was off limits. One of the major complaints we heard often was that after logging in, users didn't know what they should do first. When everything was calling for attention it was just noise instead of a useful experience. There was just way too much going on. Unnecessary text, icons, colors, etc. So, we toned it down and gave the dashboard a focus.
+    We took everything into consideration and nothing was off limits. One of the major complaints we heard often was that after logging in, users didn't know what they should do first. When everything was calling for attention it was just noise instead of a useful experience. There was just way too much going on. We had fallen into the tendency to over-explain and over-design every feature on the dashboard. I wanted this next iteration to be very clean, dare I say minimal, and really highlight the information are users expected to find quickly. So, we toned it down and gave the dashboard a focus.
   </p>
 
   <p class="center f4 f3-ns mw6 mw7-ns ph3 ph5-ns measure lh-copy">
-    As an intentional side effect of redeveloping the dashboard, and focusing on performance improvements, we dropped the number of images needed to create the interface from over a hundred to around a dozen or so. Allowing the browser to render the design via CSS is so much more performant than making a hundred extra requests.
+    An intential side effect of all of this was the huge boost in performance. So much of the old interface was made up of images that could long be accomplished in CSS. We stripped that all away and let the browser handle rendering the UI. This, amongst other tasks we undertook, resulted in a 96% decrease in page load time!
   </p>
 
   <div class="w-100 w-80-ns mv5 center">
-    <img src="../assets/images/alerts.gif" class="w-100 center db" />
+    <p class="f5 tc ttu tracked"><b>After</b></p>
+    <img src="../assets/images/dash_responsive.png" class="w-100 center db" />
   </div>
 </section>
