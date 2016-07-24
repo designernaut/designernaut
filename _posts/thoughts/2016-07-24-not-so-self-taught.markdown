@@ -1,14 +1,14 @@
 ---
 layout: post
 title:  "Not So Self-Taught"
-date:   2016-06-04 10:00:00
+date:   2016-07-24 12:20:00
 tags: ["self", "community", "learnings"]
 categories: ["thoughts"]
 ---
 
 The term "self-taught" is used too often by too many today. Just because you didn't go to school for what they're doing doesn't mean you should be considered self-taught. That line of thinking completely discounts the work of others in your development.
 
-I would like to see more people tout that they are "community-taught". I'm not 100% sure where this term originated, but I first saw it used on [Dominique Deguzman's site](http://www.thedom.io/ "Dom Deguzman") and I love the acknowledgement that we're not alone in this and that few of us are the solitary geniuses we love to celebrate.
+I would like to see more people tout that they are "community-taught". I'm not 100% sure where this term originated, but I first saw it used on [Dominique Deguzman's](http://www.thedom.io/ "Dom Deguzman") site and I love the acknowledgment that we're not alone in this. That few of us are the solitary geniuses we love to celebrate.
 
 In my mind, community-taught pays homage to those around us who have led the way. It thanks our mentors and co-workers who showed us a new way to do something or gave us the support to keep learning. It spreads the love around the industry for so many and begs for you to give back in return.
 
