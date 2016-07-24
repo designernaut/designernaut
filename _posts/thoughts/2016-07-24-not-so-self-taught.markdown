@@ -6,7 +6,7 @@ tags: ["self", "community", "learnings"]
 categories: ["thoughts"]
 ---
 
-<img src="..assets/images/blog_photos/city-people-woman-street.jpg">
+<img src="/assets/images/blog_photos/city-people-woman-street.jpg">
 
 The term "self-taught" is used too often by too many today. Just because you didn't go to school for what they're doing doesn't mean you should be considered self-taught. That line of thinking completely discounts the work of others in your development.
 

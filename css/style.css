@@ -85,3 +85,7 @@ html {
 .post a:hover {
     color: #000;
 }
+
+.post img {
+    width: 100%;
+}
